@@ -1,40 +1,25 @@
-### Selective Laser Sintering
-* Selective Laser Sintering (SLS) is a powder bed fusion additive manufacturing technique. Variety of materials such as plastics, glass, ceramics and metals can be printed using SLS machines. Metal based SLS technique is popularly known as Direct Metal Laser Sintering (DMLS).
-* DMLS uses a high-powered C0<sub>2</sub> laser to selectively fuse small particles of powdered material below thier melting point to create three dimensional parts. 
-* The metal powder and the build platform are preheated to a temperature below the melting point of the metal, at which the particles' surfaces weld together.
-* The piston of the powder container moves upward and the piston of the fabrication container moves downward. This step gives requisite powder to be carried away by recoater arm and space on the fabrication container for the powder to be deposited.
-* The deposited powder layer is scanned by the laser beam to fuse powder at the selected area.  The fabrication piston moves down by a depth equal to the layer thickness and a thin layer of powder is re-spread over the fabrication platform and position of leveling roller changes to right of fabrication platform .The process then repeats until the whole part is complete. 
-* A cool-down period is required to allow the parts to uniformly come to a low-enough temperature that they can be handled and exposed to ambient temperature and atmosphere.
-* The parts are then cleaned with compressed air or other blasting media and are ready to use or further post process. The remaining unsintered metal powder is collected and can be reused.
-
-### SLS Principle
-The SLS process is based on the following principles:
-1. Three dimensional objects are formed by selectively sintering (fusing) powder particles using a laser beam which raises the temperature to point just below its melting in order to bond the particles together and with previous layer.
-2. The building of the part is done layer by layer. The next layer is then built directly on top of the sintered layer after an additional layer of powder is deposited on top of the previously formed layer.
-
-### Materials
-* Aluminium
-* Titanium
-* Copper 
-* Nickle Alloys
-* Cobalt Chrome
-* Lasers: CO2 and Ytterbium (Yb)-fiber lasers are commonly used in SLS processes, depending on the type of material.
-
-### Advantages
-* It can be used for sintering of combined metals and plastic materials, e.g., Alumide is a mixture of nylon powder and aluminum powder.
-* Easily print from alloys containing materials with different melting points.
-* Metal powder that is not sintered is reusable.
-* Good mechanical properties in all directions.
-
-### Applications
-* SLS has proved to be particularly useful for industries that need only a small quantity of objects printed in high quality materials.  
-* SLS is a popular method for 3D printing customized products, such as hearing aids, dental retainers and prosthetics.
-* SLS has been recognized as a useful tool initially for fabrication of bone implants. 
-* It is used in Rapid Prototyping for design and evaluation of models, design verification and product performance and testing. 
+###Compression strength test for moulding sand
+ 
+*It’s a test that has to be performed periodically 
+*Moulding sand constitutes of silica sand, clay, water and other special additives. 
+*Clay imparts necessary binding strength to the sand in wet state. 
+*Compression test determines the bonding or adhesiveness power of various bonding materials in green sand. 
+*The green compressive strength of foundry sand is the maximum compression strength a mixture is capable of developing when it is in most condition.
 
 
-### Limitations
-1.	Parts produced have a grainy surface finish and internal porosity so post processing may be required to obtain required surface finish.
-2.	Expensive setup due to laser. This limits the current range of applications of PBF to only high-value parts that are used in industries such as aerospace, industrial power generation, and others with extreme environments where the high part cost can be justified.
-3.	Thermal distortion is another problem which can cause shrinking and warping of fabricated parts. So, large flat surfaces and small holes cannot be printed accurately as they are susceptible to warping and oversitnering. Both during and after the build, a carefully managed cooling process is critical to help prevent warping and other thermal distortions.
-4.	Careful handling of the powder feedstock is essential for health and safety reasons.
+###Tensile strength test of core sand
+
+*A core is compacted sand mass of a known shape.
+*When a hallow casting is required, a core is used in the mould or when a complex contour is required a mould is created out of cores.
+*Core boxes are used for making cores. They are either made single or in two parts. Their classification is generally according to the shape of the core or the method of making the core
+*Split core box is very widely used and is made in two parts, which can be joined together by means of dowels to form the complete cavity for making the core.
+*The purpose of adding binder to the moulding sand is to impart strength and cohesiveness to the sand to enable it to retain its shape after the core has been rammed.
+*During casting the core is placed inside the mould and the molten metal is poured in to the cavity. As the molten metal begins to cool, it begins to contract on the inner radius as well as the outer radius. Due to the contraction of the inner radius the core sand will be pulled outwards causing a tensile load around the core. Hence knowledge of tensile strength of core sand is important.
+
+
+###Shear strength test for moulding sand
+
+*Shear strength is the ability of sand particles to resist the shear stress and to stick together. 
+*Insufficient Shear strength may lead to the collapsing of sand in the mould or its partial destruction during handling. The mould and core may also be damaged during flow of molten metal in the mould cavity.
+*The moulding sand must possess sufficient strength to permit the mould to be formed to the desired shape and to retain the shape even after the hot metal is poured into the mould cavity. 
+*In shearing, the rupture occurs parallel to the axis of the specimen.
