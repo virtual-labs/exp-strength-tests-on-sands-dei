@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Manufacturing Processes (Foundry & Casting) Virtual Simulation Lab</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<script type="text/javascript" src="js/main.js"></script>
+</head>
+<body>
+<header>
+  <button class="menu-btn" onclick="dispmenu(this)">
+  <div class="container">
+  <div class="bar1"></div>
+  <div class="bar2"></div>
+  <div class="bar3"></div>
+  </div></button>
+  <b id="pagechanger">Compression strength test for moulding sand</b>
+</header>
+<nav class="side-nav" id="navbar">
+		<div class="nav-element">
+			<a href="../index.html" >Aim</a>
+		</div>
+		<div class="nav-element">
+			<a href="../theory.html" >Theory</a>
+		</div>
+		<div class="nav-element">
+			<a href="../objective.html" >Objective</a>
+		</div>
+		<div class="nav-element">
+			<a href="../pretest.html" >Pretest</a>
+		</div>
+		<div class="nav-element">
+			<a href="../procedure.html" >Procedure</a>
+		</div>
+		<div class="nav-element">
+			<a href="index.html" >
+			<span>Simulation</span></a>
+		</div>
+		<div class="nav-element">
+			<a href="../posttest.html" >Posttest</a>
+		</div>
+		<div class="nav-element">
+			<a href="../references.html" >References</a>
+		</div>
+		<div class="nav-element">
+			<a href="../feedback.html" >Feedback</a>
+		</div>
+		</nav>
+		
+	<div id="simulation-cont">
+		<div id="matwork">
+			<div style="height:600px;">
+				Manufacturing Processes (Foundry & Casting) Virtual Simulation Lab<br>
+				Experiment 4.1: Compression strength test for moulding sand<br>
+				<div id="simulation">
+				<img src="images/USMachine.jpg" width="75%">
+				</div>
+				
+				<div class="sandSpecimen" id="sandSpecimen">
+				<b style="color:red;">Click on <u>Sand</u> to prepare the Specimen</b><br><br>
+				<img src="images/sand.jpg" width="40%" title="Click here" onclick="sandSpecimen()"><br>Sand
+				</div>
+				
+				<div class="sidecontainer" id="readingDial">
+				<b style="color:red;">Click on Dial Indicator</b><br><br>
+				<img src="images/dialIndicator.jpg" width="50%" title="Click here" onclick="readingDial()"><br>Dial Indicator
+				</div>
+				
+				<div class="sidecontainer" id="specimen1">
+				<b style="color:red;">Click on <u>Specimen-1</u></b><br><br>
+				<img src="images/specimen1.jpg" width="40%" title="Click here" onclick="specimen1()"><br>Specimen-1
+				</div>
+				
+				<div class="sidecontainer" id="compressionSpecimen2">
+				<b style="color:red;">Click on <u>Specimen-2</u></b><br><br>
+				<img src="images/specimen2.jpg" width="40%" title="Click here" onclick="specimen2()"><br>Specimen-2
+				</div>
+				
+				<div class="sidecontainer" id="compressionSpecimen3">
+				<b style="color:red;">Click on <u>Specimen-3</u></b><br><br>
+				<img src="images/specimen3.jpg" width="40%" title="Click here" onclick="specimen3()"><br>Specimen-3
+				</div>
+				
+				<div class="sidecontainer" id="compressionTestResult">
+				<b style="color:red;">Click on <u>Result</u></b><br><br>
+				<img src="images/result.jpg" width="25%" title="Click here" onclick="compressionTestResult()">
+				</div>
+				
+				<div class="sidecontainer" id="compressionTestTable" style="text-align:center; margin-left:300px;">
+				<b style="text-align:center; margin-left:200px;"><u>Observations</u></b><br><br>
+				<table border="1" width="600px">
+				<tr><th>%Sand</th><th>%Clay</th><th>%Moisture</th><th>%Strength (kg/cm<sup>2</sup>)</th></tr>
+				<tr><td style="text-align:center">90</td><td style="text-align:center">4</td><td style="text-align:center">6</td><td style="text-align:center">4.2</td></tr>
+				<tr><td style="text-align:center">89</td><td style="text-align:center">4</td><td style="text-align:center">7</td><td style="text-align:center">3.5</td></tr>
+				<tr><td style="text-align:center">88</td><td style="text-align:center">4</td><td style="text-align:center">8</td><td style="text-align:center">2.9</td></tr>
+				</table>
+				</div>
+			</div>
+<img src="images/reset.jpg" align="right" width="7%" onclick="resetfun()"><br>
+<hr>
+	<div id="about">
+		<div class="box" id="zoom">
+			<img src="images/usm.jpg" title="Universal Strength Machine">
+			<h3 class="h-secondary center">Universal Strength Machine</h3>
+		</div>
+		
+		<div class="box" id="zoom">
+			<img src="images/spindle.jpg" title="Spindle">
+			<h3 class="h-secondary center">Spindle</h3>
+		</div>
+				
+		<div class="box" id="zoom">
+			<img src="images/sand.jpg" title="Sand">
+			<h3 class="h-secondary center">Sand</h3>
+		</div>
+		
+		<div class="box" id="zoom">
+			<img src="images/dialIndicator.jpg" title="Dial Indicator for Reading">
+			<h3 class="h-secondary center">Dial Indicator</h3>
+		</div>
+		
+	</div>
+	</div>
+</div>
+<div style="margin-top:25px" id="footer">
+<hr>
+<Marquee>
+Copyright &copy; Dayalbagh Educational Institute&nbsp;<a href="https://www.dei.ac.in" target="_blank" title="DEI">(www.dei.ac.in)</a>&nbsp;-&nbsp;<a href="http://msvs-dei.vlabs.ac.in/ajay/index.html" target="_blank" title="Profile">Ajay Kant Upadhyay</a>
+</Marquee>
+</div>
+</body>
+</html>

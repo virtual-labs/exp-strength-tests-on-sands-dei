@@ -25,89 +25,122 @@ function dispmenu(val)
 	  }
 }
 
-function dimensions()
+function sandSpecimen()
 {
-	document.getElementById("simulation").innerHTML="<img src='images/dimensions.jpg' width='55%'>";
-	document.getElementById("dimension").style.display = "none";
-	document.getElementById("cylinder30mm").style.display = "block";
+	document.getElementById("simulation").innerHTML="<img src='images/compressionTestSpecimen.jpg' width='70%'>";
+	document.getElementById("sandSpecimen").style.display = "none";
+	document.getElementById("readingDial").style.display = "block";
 }
 
-function cylinder30mm()
+function readingDial()
 {
-	document.getElementById("simulation").innerHTML="<img src='images/cylinder30mm.gif' width='80%'>";
-	document.getElementById("cylinder30mm").style.display = "none";
-	setTimeout(() => {
-	document.getElementById("height20mm").style.display = "block";
-	}, 5000);
-}
-
-function height20mm()
-{
-	document.getElementById("simulation").innerHTML="<img src='images/height20mm.gif' width='80%'>";
-	document.getElementById("height20mm").style.display = "none";
+	document.getElementById("simulation").innerHTML="<img src='images/readingDial.gif' width='80%'>";
+	document.getElementById("readingDial").style.display = "none";
 	setTimeout(() => {
 	document.getElementById("specimen1").style.display = "block";
-	}, 2000);
+	}, 3500);
 }
 
 function specimen1()
 {
-	document.getElementById("simulation").innerHTML="<img src='images/specimen1.gif' width='80%'>";
+	document.getElementById("simulation").innerHTML="<img src='images/compressionSpecimen1.gif' width='70%'>";
 	document.getElementById("specimen1").style.display = "none";
 	setTimeout(() => {
-	document.getElementById("cylinder40mm").style.display = "block";
-	}, 10000);
-}
-
-function cylinder40mm()
-{
-	document.getElementById("simulation").innerHTML="<img src='images/cylinder40mm.gif' width='80%'>";
-	document.getElementById("cylinder40mm").style.display = "none";
-	setTimeout(() => {
-	document.getElementById("height30mm").style.display = "block";
-	}, 3000);
-}
-
-function height30mm()
-{
-	document.getElementById("simulation").innerHTML="<img src='images/height30mm.gif' width='80%'>";
-	document.getElementById("height30mm").style.display = "none";
-	setTimeout(() => {
-	document.getElementById("specimen2").style.display = "block";
-	}, 3000);
+	document.getElementById("compressionSpecimen2").style.display = "block";
+	}, 6000);
 }
 
 function specimen2()
 {
-	document.getElementById("simulation").innerHTML="<img src='images/specimen2.gif' width='80%'>";
-	document.getElementById("specimen2").style.display = "none";
+	document.getElementById("simulation").innerHTML="<img src='images/compressionSpecimen2.gif' width='70%'>";
+	document.getElementById("compressionSpecimen2").style.display = "none";
 	setTimeout(() => {
-	document.getElementById("cylinder50mm").style.display = "block";
-	}, 10500);
-}
-
-function cylinder50mm()
-{
-	document.getElementById("simulation").innerHTML="<img src='images/cylinder50mm.gif' width='80%'>";
-	document.getElementById("cylinder50mm").style.display = "none";
-	setTimeout(() => {
-	document.getElementById("height10mm").style.display = "block";
-	}, 4000);
-}
-
-function height10mm()
-{
-	document.getElementById("simulation").innerHTML="<img src='images/height10mm.gif' width='80%'>";
-	document.getElementById("height10mm").style.display = "none";
-	setTimeout(() => {
-	document.getElementById("specimen3").style.display = "block";
-	}, 3000);
+	document.getElementById("compressionSpecimen3").style.display = "block";
+	}, 6000);
 }
 
 function specimen3()
 {
-	document.getElementById("simulation").innerHTML="<img src='images/specimen3.gif' width='80%'>";
-	document.getElementById("specimen3").style.display = "none";
+	document.getElementById("simulation").innerHTML="<img src='images/compressionSpecimen3.gif' width='70%'>";
+	document.getElementById("compressionSpecimen3").style.display = "none";
+	setTimeout(() => {
+	document.getElementById("compressionTestResult").style.display = "block";
+	}, 7000);
+}
+
+function compressionTestResult()
+{
+	document.getElementById("simulation").style.display = "none";
+	document.getElementById("compressionTestResult").style.display = "none";
+	document.getElementById("compressionTestTable").style.display = "block";
+}
+
+function shearSpecimen1()
+{
+	document.getElementById("simulation").innerHTML="<img src='images/shearSpecimen1.gif' width='70%'>";
+	document.getElementById("specimen1").style.display = "none";
+	setTimeout(() => {
+	document.getElementById("shearSpecimen2").style.display = "block";
+	}, 6000);
+}
+
+function shearSpecimen2()
+{
+	document.getElementById("simulation").innerHTML="<img src='images/shearSpecimen2.gif' width='70%'>";
+	document.getElementById("shearSpecimen2").style.display = "none";
+	setTimeout(() => {
+	document.getElementById("shearSpecimen3").style.display = "block";
+	}, 6000);
+}
+
+function shearSpecimen3()
+{
+	document.getElementById("simulation").innerHTML="<img src='images/shearSpecimen3.gif' width='70%'>";
+	document.getElementById("shearSpecimen3").style.display = "none";
+	setTimeout(() => {
+	document.getElementById("shearTestResult").style.display = "block";
+	}, 8000);
+}
+
+function shearTestResult()
+{
+	document.getElementById("simulation").style.display = "none";
+	document.getElementById("shearTestResult").style.display = "none";
+	document.getElementById("shearTestTable").style.display = "block";
+}
+
+function tensileSpecimen1()
+{
+	document.getElementById("simulation").innerHTML="<img src='images/tensileSpecimen1.gif' width='70%'>";
+	document.getElementById("specimen1").style.display = "none";
+	setTimeout(() => {
+	document.getElementById("tensileSpecimen2").style.display = "block";
+	}, 6000);
+}
+
+function tensileSpecimen2()
+{
+	document.getElementById("simulation").innerHTML="<img src='images/tensileSpecimen2.gif' width='70%'>";
+	document.getElementById("tensileSpecimen2").style.display = "none";
+	setTimeout(() => {
+	document.getElementById("tensileSpecimen3").style.display = "block";
+	}, 6000);
+}
+
+function tensileSpecimen3()
+{
+	document.getElementById("simulation").innerHTML="<img src='images/tensileSpecimen3.gif' width='70%'>";
+	document.getElementById("tensileSpecimen3").style.display = "none";
+	setTimeout(() => {
+	document.getElementById("tensileTestResult").style.display = "block";
+	}, 6000);
+}
+
+function tensileTestResult()
+{
+	document.getElementById("simulation").style.display = "none";
+	document.getElementById("tensileTestResult").style.display = "none";
+	document.getElementById("tensileTestTable").style.display = "block";
 }
 
 function resetfun()
