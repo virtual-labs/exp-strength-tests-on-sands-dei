@@ -19,7 +19,7 @@
 9. Repeat the procedure for the different percentage of binder and tabulate the readings
 
 
-###Shear strength test for moulding sand
+### Shear strength test for moulding sand
 1. Take weighed amount of foundry sand (mixture of sand, clay & water as specified). 
 2. Transfer the sand mixture into the tube and ram it with the help of a sand rammer thrice. 
 3. Fix the shackles to the universal sand testing machine
