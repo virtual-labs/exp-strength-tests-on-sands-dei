@@ -9,7 +9,7 @@
         "c": "Shellac",
         "d": "Bentonite"
       },
-      "correctAnswer": "d",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
@@ -21,6 +21,39 @@
         "d": "To ensure gases pass through easily in the mould"
       },
       "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Why do we perform the tensile strength of core sand",
+      "answers": {
+        "a": "To know the tensile load on the core during the pouring of molten metal",
+        "b": "To know the tensile load that occurs on the core during the contraction of metal",
+        "c": "To know the tensile strength of the moulding sand",
+        "d": "To know the tensile load that occurs on the molten metal by the core"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Insufficient shear strength of moulding sand leads to which of the following problems",
+      "answers": {
+        "a": "Collapsing of sand in the mould",
+        "b": "Partial destruction of mould during handling",
+        "c": "Erosion of moulding sand due to flow of molten metal",
+        "d": "All the above"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What do you understand by the green compressive strength of foundry sand",
+      "answers": {
+        "a": "Property of the green sand to withstand the compressive stress",
+        "b": "Ability of the sand to be easily stripped off the casting after it has solidified",
+        "c": "Maximum compressive strength a mixture can develop before it collapses",
+        "d": "Minimum compressive strength a mixture can develop before it collapses"
+      },
+      "correctAnswer": "c",
       "difficulty": "beginner"
     }
   ]
