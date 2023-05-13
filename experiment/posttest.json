@@ -4,10 +4,10 @@
     {
       "question": "Minimum wet tensile strength to be maintained for green sand mould is:",
       "answers": {
-        "a": "50gm/sq cm",
-        "b": "75gm/sq cm",
-        "c": "25gm/sq cm",
-        "d": "10gm/sq cm"
+        "a": "50 gm/sq cm",
+        "b": "75 gm/sq cm",
+        "c": "25 gm/sq cm",
+        "d": "10 gm/sq cm"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -15,10 +15,10 @@
 	{
       "question": "Compressive strength of green sand in case of cast iron casting should be:",
       "answers": {
-        "a": "0.4-0.5kg/cm2",
-        "b": "0.1-0.2kg/cm2",
-        "c": "0.3-0.4kg/cm2",
-        "d": "0.5-0.6kg/cm2"
+        "a": "0.4-0.5 kg/cm<sup>2</sup>",
+        "b": "0.1-0.2 kg/cm<sup>2</sup>",
+        "c": "0.3-0.4 kg/cm<sup>2</sup>",
+        "d": "0.5-0.6 kg/cm<sup>2</sup>"
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
