@@ -9,6 +9,14 @@
         "c": "25 gm/sq cm",
         "d": "10 gm/sq cm"
       },
+	    
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+	    
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -20,6 +28,14 @@
         "c": "0.3-0.4 kg/cm<sup>2</sup>",
         "d": "0.5-0.6 kg/cm<sup>2</sup>"
       },
+		
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+		
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -31,6 +47,14 @@
         "c": "Inclined",
         "d": "None of the above"
       },
+		
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+	
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -42,6 +66,14 @@
         "c": "Triaxial Shear Test",
         "d": "None of the above"
       },
+		
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+	
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
@@ -53,6 +85,14 @@
         "c": "Direct normal stress",
         "d": "All of the above"
       },
+		
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+	
       "correctAnswer": "d",
       "difficulty": "beginner"
     }
