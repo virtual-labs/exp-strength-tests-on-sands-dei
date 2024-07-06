@@ -9,6 +9,12 @@
         "c": "Shellac",
         "d": "Bentonite"
       },
+      "explanations": {
+        "a": "Shellac is indeed a natural resin derived from the lac beetle (specifically its secretion). It is used in various applications as a binder, coating, and sealing agent. In foundry practice, shellac can be used as a binder in core-making processes, particularly for certain types of cores or in specific applications where its properties are advantageous",
+        "b": "Shellac is indeed a natural resin derived from the lac beetle (specifically its secretion). It is used in various applications as a binder, coating, and sealing agent. In foundry practice, shellac can be used as a binder in core-making processes, particularly for certain types of cores or in specific applications where its properties are advantageous",
+        "c": "Shellac is indeed a natural resin derived from the lac beetle (specifically its secretion). It is used in various applications as a binder, coating, and sealing agent. In foundry practice, shellac can be used as a binder in core-making processes, particularly for certain types of cores or in specific applications where its properties are advantageous",
+        "d": "Shellac is indeed a natural resin derived from the lac beetle (specifically its secretion). It is used in various applications as a binder, coating, and sealing agent. In foundry practice, shellac can be used as a binder in core-making processes, particularly for certain types of cores or in specific applications where its properties are advantageous"
+      },
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -19,6 +25,12 @@
         "b": "To ensure bonding strength so mould retains its shape",
         "c": "To ensure that mould retain its shape when the patter is removed",
         "d": "To ensure gases pass through easily in the mould"
+      },
+      "explanations": {
+        "a": "Strength tests in foundry operations are primarily performed to ensure that the Mould has sufficient strength to withstand the forces exerted during the casting process. This includes the weight of the molten metal, thermal stresses, and mechanical handling. Ensuring good strength helps prevent the Mould from collapsing during casting, which can lead to defects in the final product.",
+        "b": "Strength tests in foundry operations are primarily performed to ensure that the Mould has sufficient strength to withstand the forces exerted during the casting process. This includes the weight of the molten metal, thermal stresses, and mechanical handling. Ensuring good strength helps prevent the Mould from collapsing during casting, which can lead to defects in the final product.",
+        "c": "Strength tests in foundry operations are primarily performed to ensure that the Mould has sufficient strength to withstand the forces exerted during the casting process. This includes the weight of the molten metal, thermal stresses, and mechanical handling. Ensuring good strength helps prevent the Mould from collapsing during casting, which can lead to defects in the final product.",
+        "d": "Strength tests in foundry operations are primarily performed to ensure that the Mould has sufficient strength to withstand the forces exerted during the casting process. This includes the weight of the molten metal, thermal stresses, and mechanical handling. Ensuring good strength helps prevent the Mould from collapsing during casting, which can lead to defects in the final product."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -31,6 +43,12 @@
         "c": "To know the tensile strength of the moulding sand",
         "d": "To know the tensile load that occurs on the molten metal by the core"
       },
+      "explanations": {
+        "a": "Tensile strength test on core sand helps in understanding the stress or load the core experiences as the metal contracts during solidification.",
+        "b": "Tensile strength test on core sand helps in understanding the stress or load the core experiences as the metal contracts during solidification.",
+        "c": "Tensile strength test on core sand helps in understanding the stress or load the core experiences as the metal contracts during solidification.",
+        "d": "Tensile strength test on core sand helps in understanding the stress or load the core experiences as the metal contracts during solidification."
+      },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -42,6 +60,12 @@
         "c": "Erosion of moulding sand due to flow of molten metal",
         "d": "All the above"
       },
+      "explanations": {
+        "a": "Insufficient shear strength of Moulding sand can lead to multiple problems.",
+        "b": "Insufficient shear strength of Moulding sand can lead to multiple problems.",
+        "c": "Insufficient shear strength of Moulding sand can lead to multiple problems.",
+        "d": "Insufficient shear strength of Moulding sand can lead to multiple problems."
+      },
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
@@ -52,6 +76,11 @@
         "b": "Ability of the sand to be easily stripped off the casting after it has solidified",
         "c": "Maximum compressive strength a mixture can develop before it collapses",
         "d": "Minimum compressive strength a mixture can develop before it collapses"
+      },"explanations": {
+        "a": "The green compressive strength of foundry sand indeed refers to the maximum compressive strength that the sand mixture can develop before it collapses. This strength is crucial for ensuring that the sand can support the weight of the molten metal during casting without deforming or collapsing.",
+        "b": "The green compressive strength of foundry sand indeed refers to the maximum compressive strength that the sand mixture can develop before it collapses. This strength is crucial for ensuring that the sand can support the weight of the molten metal during casting without deforming or collapsing.",
+        "c": "The green compressive strength of foundry sand indeed refers to the maximum compressive strength that the sand mixture can develop before it collapses. This strength is crucial for ensuring that the sand can support the weight of the molten metal during casting without deforming or collapsing.",
+        "d": "The green compressive strength of foundry sand indeed refers to the maximum compressive strength that the sand mixture can develop before it collapses. This strength is crucial for ensuring that the sand can support the weight of the molten metal during casting without deforming or collapsing."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
