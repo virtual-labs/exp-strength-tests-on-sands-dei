@@ -9,6 +9,14 @@
         "c": "25 gm/sq cm",
         "d": "10 gm/sq cm"
       },
+	    
+      "explanations": {
+        "a": "In foundry operations, the minimum wet tensile strength that is typically maintained for green sand Moulds is around 25 gm/sq cm (grams per square centimeter).      This strength is important to ensure that the Mould can withstand the stresses during casting and handling without breaking or deforming.",
+        "b": "In foundry operations, the minimum wet tensile strength that is typically maintained for green sand Moulds is around 25 gm/sq cm (grams per square centimeter).      This strength is important to ensure that the Mould can withstand the stresses during casting and handling without breaking or deforming.",
+        "c": "In foundry operations, the minimum wet tensile strength that is typically maintained for green sand Moulds is around 25 gm/sq cm (grams per square centimeter).      This strength is important to ensure that the Mould can withstand the stresses during casting and handling without breaking or deforming.",
+        "d": "In foundry operations, the minimum wet tensile strength that is typically maintained for green sand Moulds is around 25 gm/sq cm (grams per square centimeter).      This strength is important to ensure that the Mould can withstand the stresses during casting and handling without breaking or deforming."
+      },
+	    
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -20,6 +28,14 @@
         "c": "0.3-0.4 kg/cm<sup>2</sup>",
         "d": "0.5-0.6 kg/cm<sup>2</sup>"
       },
+		
+      "explanations": {
+        "a": "Minimum strength necessary to support the weight and pressures exerted during the casting process with cast iron.",
+        "b": "This range represents the compressive strength of green sand required for cast iron casting. It indicates the minimum strength necessary to support the weight and pressures exerted during the casting process with cast iron.",
+        "c": "Minimum strength necessary to support the weight and pressures exerted during the casting process with cast iron.",
+        "d": "Minimum strength necessary to support the weight and pressures exerted during the casting process with cast iron."
+      },
+		
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -31,6 +47,14 @@
         "c": "Inclined",
         "d": "None of the above"
       },
+		
+      "explanations": {
+        "a": "In a direct shear test, the specimen is subjected to shear stress along a horizontal plane. When the shear stress applied reaches the shear strength of the material being tested, the failure occurs along a horizontal plane within the specimen.",
+        "b": "In a direct shear test, the specimen is subjected to shear stress along a horizontal plane. When the shear stress applied reaches the shear strength of the material being tested, the failure occurs along a horizontal plane within the specimen.",
+        "c": "In a direct shear test, the specimen is subjected to shear stress along a horizontal plane. When the shear stress applied reaches the shear strength of the material being tested, the failure occurs along a horizontal plane within the specimen.",
+        "d": "In a direct shear test, the specimen is subjected to shear stress along a horizontal plane. When the shear stress applied reaches the shear strength of the material being tested, the failure occurs along a horizontal plane within the specimen."
+      },
+	
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -42,6 +66,14 @@
         "c": "Triaxial Shear Test",
         "d": "None of the above"
       },
+		
+      "explanations": {
+        "a": "Direct shear stress is also known as the Box Shear Test. In this test, a soil sample is sheared along a horizontal plane within a shear box apparatus to determine its shear strength properties.",
+        "b": "Direct shear stress is also known as the Box Shear Test. In this test, a soil sample is sheared along a horizontal plane within a shear box apparatus to determine its shear strength properties.",
+        "c": "Direct shear stress is also known as the Box Shear Test. In this test, a soil sample is sheared along a horizontal plane within a shear box apparatus to determine its shear strength properties.",
+        "d": "Direct shear stress is also known as the Box Shear Test. In this test, a soil sample is sheared along a horizontal plane within a shear box apparatus to determine its shear strength properties."
+      },
+	
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
@@ -53,6 +85,14 @@
         "c": "Direct normal stress",
         "d": "All of the above"
       },
+		
+      "explanations": {
+        "a": "This represents the binding force between particles.",
+        "b": "This is the angle at which the material begins to shear under an applied stress.",
+        "c": "This is the stress perpendicular to the plane on which shear is occurring.",
+        "d": "All of the above"
+      },
+	
       "correctAnswer": "d",
       "difficulty": "beginner"
     }
