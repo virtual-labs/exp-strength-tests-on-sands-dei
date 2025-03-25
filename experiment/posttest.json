@@ -2,98 +2,88 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Minimum wet tensile strength to be maintained for green sand mould is:",
+      "question": "What is the primary purpose of conducting a compression strength test on moulding sand? (LO1)",
       "answers": {
-        "a": "50 gm/sq cm",
-        "b": "75 gm/sq cm",
-        "c": "25 gm/sq cm",
-        "d": "10 gm/sq cm"
+        "a": "To determine the moisture content",
+        "b": "To evaluate the ability of sand to resist compressive forces",
+        "c": "To measure the thermal conductivity of the sand",
+        "d": "To check the grain size distribution"
       },
-	    
       "explanations": {
-        "a": "In foundry operations, the minimum wet tensile strength that is typically maintained for green sand Moulds is around 25 gm/sq cm (grams per square centimeter).      This strength is important to ensure that the Mould can withstand the stresses during casting and handling without breaking or deforming.",
-        "b": "In foundry operations, the minimum wet tensile strength that is typically maintained for green sand Moulds is around 25 gm/sq cm (grams per square centimeter).      This strength is important to ensure that the Mould can withstand the stresses during casting and handling without breaking or deforming.",
-        "c": "In foundry operations, the minimum wet tensile strength that is typically maintained for green sand Moulds is around 25 gm/sq cm (grams per square centimeter).      This strength is important to ensure that the Mould can withstand the stresses during casting and handling without breaking or deforming.",
-        "d": "In foundry operations, the minimum wet tensile strength that is typically maintained for green sand Moulds is around 25 gm/sq cm (grams per square centimeter).      This strength is important to ensure that the Mould can withstand the stresses during casting and handling without breaking or deforming."
+        "a": "Compression strength testing ensures that the moulding sand can withstand the forces exerted by molten metal without collapsing. If the sand has low compressive strength, the mould may deform or crack, leading to casting defects. Higher compression strength means better load-bearing capability, ensuring the stability of the mould during metal pouring.",
+        "b": "Compression strength testing ensures that the moulding sand can withstand the forces exerted by molten metal without collapsing. If the sand has low compressive strength, the mould may deform or crack, leading to casting defects. Higher compression strength means better load-bearing capability, ensuring the stability of the mould during metal pouring.",
+        "c": "Compression strength testing ensures that the moulding sand can withstand the forces exerted by molten metal without collapsing. If the sand has low compressive strength, the mould may deform or crack, leading to casting defects. Higher compression strength means better load-bearing capability, ensuring the stability of the mould during metal pouring.",
+        "d": "Compression strength testing ensures that the moulding sand can withstand the forces exerted by molten metal without collapsing. If the sand has low compressive strength, the mould may deform or crack, leading to casting defects. Higher compression strength means better load-bearing capability, ensuring the stability of the mould during metal pouring."
       },
-	    
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the standard method of compacting the sand mixture in the compression strength test? (LO2)",
+      "answers": {
+        "a": "By heating the sand",
+        "b": "By manually pressing it into a mould",
+        "c": "By ramming the sand with a sand rammer",
+        "d": "By vibrating the sand mixture"
+      },
+      "explanations": {
+        "a": "A sand rammer is used to apply uniform pressure to the sand specimen, ensuring consistent density and strength. This process eliminates air gaps and provides accurate test results. If the sand is not compacted properly, it may produce weak moulds that cannot withstand metal casting pressures.",
+        "b": "A sand rammer is used to apply uniform pressure to the sand specimen, ensuring consistent density and strength. This process eliminates air gaps and provides accurate test results. If the sand is not compacted properly, it may produce weak moulds that cannot withstand metal casting pressures.",
+        "c": "A sand rammer is used to apply uniform pressure to the sand specimen, ensuring consistent density and strength. This process eliminates air gaps and provides accurate test results. If the sand is not compacted properly, it may produce weak moulds that cannot withstand metal casting pressures.",
+        "d": "A sand rammer is used to apply uniform pressure to the sand specimen, ensuring consistent density and strength. This process eliminates air gaps and provides accurate test results. If the sand is not compacted properly, it may produce weak moulds that cannot withstand metal casting pressures."
+      },
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
-	{
-      "question": "Compressive strength of green sand in case of cast iron casting should be:",
+    {
+      "question": "What equipment is used to measure the shear strength of sand specimens? (LO2)",
       "answers": {
-        "a": "0.4-0.5 kg/cm<sup>2</sup>",
-        "b": "0.1-0.2 kg/cm<sup>2</sup>",
-        "c": "0.3-0.4 kg/cm<sup>2</sup>",
-        "d": "0.5-0.6 kg/cm<sup>2</sup>"
+        "a": "A compression testing machine",
+        "b": "A universal sand testing machine",
+        "c": "A hardness tester",
+        "d": "A tensile testing machine"
       },
-		
       "explanations": {
-        "a": "Minimum strength necessary to support the weight and pressures exerted during the casting process with cast iron.",
-        "b": "This range represents the compressive strength of green sand required for cast iron casting. It indicates the minimum strength necessary to support the weight and pressures exerted during the casting process with cast iron.",
-        "c": "Minimum strength necessary to support the weight and pressures exerted during the casting process with cast iron.",
-        "d": "Minimum strength necessary to support the weight and pressures exerted during the casting process with cast iron."
+        "a": "The universal sand testing machine applies controlled force to the sand specimen until failure occurs. It provides precise measurements of shear strength, helping determine the suitability of sand mixtures for foundry applications. Proper calibration of the machine is essential for accurate readings.",
+        "b": "The universal sand testing machine applies controlled force to the sand specimen until failure occurs. It provides precise measurements of shear strength, helping determine the suitability of sand mixtures for foundry applications. Proper calibration of the machine is essential for accurate readings.",
+        "c": "The universal sand testing machine applies controlled force to the sand specimen until failure occurs. It provides precise measurements of shear strength, helping determine the suitability of sand mixtures for foundry applications. Proper calibration of the machine is essential for accurate readings.",
+        "d": "The universal sand testing machine applies controlled force to the sand specimen until failure occurs. It provides precise measurements of shear strength, helping determine the suitability of sand mixtures for foundry applications. Proper calibration of the machine is essential for accurate readings."
       },
-		
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
-	{
-      "question": "The failure plane in direct shear test is ____.",
+    {
+      "question": "How is shear strength determined from the universal sand testing machine? (LO2)",
       "answers": {
-        "a": "Vertical",
-        "b": "Horizontal",
-        "c": "Inclined",
-        "d": "None of the above"
+        "a": "By checking the temperature resistance of the specimen",
+        "b": "By reading the force applied until the specimen ruptures",
+        "c": "By analyzing the binder content",
+        "d": "By measuring the weight of the sand specimen"
       },
-		
       "explanations": {
-        "a": "In a direct shear test, the specimen is subjected to shear stress along a horizontal plane. When the shear stress applied reaches the shear strength of the material being tested, the failure occurs along a horizontal plane within the specimen.",
-        "b": "In a direct shear test, the specimen is subjected to shear stress along a horizontal plane. When the shear stress applied reaches the shear strength of the material being tested, the failure occurs along a horizontal plane within the specimen.",
-        "c": "In a direct shear test, the specimen is subjected to shear stress along a horizontal plane. When the shear stress applied reaches the shear strength of the material being tested, the failure occurs along a horizontal plane within the specimen.",
-        "d": "In a direct shear test, the specimen is subjected to shear stress along a horizontal plane. When the shear stress applied reaches the shear strength of the material being tested, the failure occurs along a horizontal plane within the specimen."
+        "a": "The universal sand testing machine gradually applies force to the specimen until it breaks. The reading at which rupture occurs is the shear strength, indicating the sand's ability to withstand mechanical stresses.",
+        "b": "The universal sand testing machine gradually applies force to the specimen until it breaks. The reading at which rupture occurs is the shear strength, indicating the sand's ability to withstand mechanical stresses.",
+        "c": "The universal sand testing machine gradually applies force to the specimen until it breaks. The reading at which rupture occurs is the shear strength, indicating the sand's ability to withstand mechanical stresses.",
+        "d": "The universal sand testing machine gradually applies force to the specimen until it breaks. The reading at which rupture occurs is the shear strength, indicating the sand's ability to withstand mechanical stresses."
       },
-	
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
-	{
-      "question": "Direct shear stress is also called as:",
+    {
+      "question": "What happens to the sand specimen when sufficient hydraulic pressure is applied? (LO3)",
       "answers": {
-        "a": "Box Shear Test",
-        "b": "Vane Shear Test",
-        "c": "Triaxial Shear Test",
-        "d": "None of the above"
+        "a": "It expands",
+        "b": "It shrinks",
+        "c": "It ruptures",
+        "d": "It melts"
       },
-		
       "explanations": {
-        "a": "Direct shear stress is also known as the Box Shear Test. In this test, a soil sample is sheared along a horizontal plane within a shear box apparatus to determine its shear strength properties.",
-        "b": "Direct shear stress is also known as the Box Shear Test. In this test, a soil sample is sheared along a horizontal plane within a shear box apparatus to determine its shear strength properties.",
-        "c": "Direct shear stress is also known as the Box Shear Test. In this test, a soil sample is sheared along a horizontal plane within a shear box apparatus to determine its shear strength properties.",
-        "d": "Direct shear stress is also known as the Box Shear Test. In this test, a soil sample is sheared along a horizontal plane within a shear box apparatus to determine its shear strength properties."
+        "a": "Under increasing hydraulic pressure, the specimen experiences internal stress until it reaches its breaking point. The rupture strength indicates the sand’s mechanical integrity.",
+        "b": "Under increasing hydraulic pressure, the specimen experiences internal stress until it reaches its breaking point. The rupture strength indicates the sand’s mechanical integrity.",
+        "c": "Under increasing hydraulic pressure, the specimen experiences internal stress until it reaches its breaking point. The rupture strength indicates the sand’s mechanical integrity.",
+        "d": "Under increasing hydraulic pressure, the specimen experiences internal stress until it reaches its breaking point. The rupture strength indicates the sand’s mechanical integrity."
       },
-	
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-	{
-      "question": "Shear strength of sand is the function of:",
-      "answers": {
-        "a": "Cohesion",
-        "b": "Angle of internal friction",
-        "c": "Direct normal stress",
-        "d": "All of the above"
-      },
-		
-      "explanations": {
-        "a": "This represents the binding force between particles.",
-        "b": "This is the angle at which the material begins to shear under an applied stress.",
-        "c": "This is the stress perpendicular to the plane on which shear is occurring.",
-        "d": "All of the above"
-      },
-	
-      "correctAnswer": "d",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
