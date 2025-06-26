@@ -1,4 +1,5 @@
-### To perform various strength test on core and mould sand
+### Aim
+**To perform various strength test on core and mould sand**
 
 I. 	 Compression strength test for moulding sand<br>
 II.  Shear strength test for moulding sand<br>
