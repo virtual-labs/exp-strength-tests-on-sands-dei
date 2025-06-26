@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Which component in moulding sand provides the necessary binding strength in the wet state? (LO1)",
+      "answers": {
+        "a": "Silica sand",
+        "b": "Clay",
+        "c": "Water",
+        "d": "Binder"
+      },
+      "explanations": {
+        "a": "Clay acts as a binding agent in moulding sand, increasing its cohesion and allowing it to retain shape in the wet state. The fine particles of clay coat the sand grains, enhancing the bonding strength and plasticity. This ensures that the mould holds its form before and during the casting process. Without clay, the sand would not have sufficient green strength to maintain structural integrity.",
+        "b": "Clay acts as a binding agent in moulding sand, increasing its cohesion and allowing it to retain shape in the wet state. The fine particles of clay coat the sand grains, enhancing the bonding strength and plasticity. This ensures that the mould holds its form before and during the casting process. Without clay, the sand would not have sufficient green strength to maintain structural integrity.",
+        "c": "Clay acts as a binding agent in moulding sand, increasing its cohesion and allowing it to retain shape in the wet state. The fine particles of clay coat the sand grains, enhancing the bonding strength and plasticity. This ensures that the mould holds its form before and during the casting process. Without clay, the sand would not have sufficient green strength to maintain structural integrity.",
+        "d": "Clay acts as a binding agent in moulding sand, increasing its cohesion and allowing it to retain shape in the wet state. The fine particles of clay coat the sand grains, enhancing the bonding strength and plasticity. This ensures that the mould holds its form before and during the casting process. Without clay, the sand would not have sufficient green strength to maintain structural integrity."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What does the compression strength test of moulding sand determine? (LO2)",
+      "answers": {
+        "a": "Shear strength of sand",
+        "b": "Bonding strength in green state",
+        "c": "Hardness of the core",
+        "d": "Tensile strength of dry sand"
+      },
+      "explanations": {
+        "a": "The compression strength test of moulding sand assesses its ability to withstand compressive forces in its green state (before drying or metal pouring). It helps in determining the bonding strength of sand due to the presence of clay and moisture. A higher green compression strength prevents the mould from breaking or deforming before the casting process.",
+        "b": "The compression strength test of moulding sand assesses its ability to withstand compressive forces in its green state (before drying or metal pouring). It helps in determining the bonding strength of sand due to the presence of clay and moisture. A higher green compression strength prevents the mould from breaking or deforming before the casting process.",
+        "c": "The compression strength test of moulding sand assesses its ability to withstand compressive forces in its green state (before drying or metal pouring). It helps in determining the bonding strength of sand due to the presence of clay and moisture. A higher green compression strength prevents the mould from breaking or deforming before the casting process.",
+        "d": "The compression strength test of moulding sand assesses its ability to withstand compressive forces in its green state (before drying or metal pouring). It helps in determining the bonding strength of sand due to the presence of clay and moisture. A higher green compression strength prevents the mould from breaking or deforming before the casting process."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Why is the tensile strength test important for core sand? (LO1)",
+      "answers": {
+        "a": "To check how much the core can expand during metal solidification",
+        "b": "To ensure the core can withstand tensile stress due to shrinkage",
+        "c": "To determine the hardness of the sand",
+        "d": "To improve the surface finish of the casting"
+      },
+      "explanations": {
+        "a": "As molten metal cools, it shrinks and applies tensile forces on the core. The tensile strength test ensures that the core can resist these stresses without cracking or breaking. If the tensile strength is too low, the core may fracture, leading to casting defects such as unwanted cavities or distortions.",
+        "b": "As molten metal cools, it shrinks and applies tensile forces on the core. The tensile strength test ensures that the core can resist these stresses without cracking or breaking. If the tensile strength is too low, the core may fracture, leading to casting defects such as unwanted cavities or distortions.",
+        "c": "As molten metal cools, it shrinks and applies tensile forces on the core. The tensile strength test ensures that the core can resist these stresses without cracking or breaking. If the tensile strength is too low, the core may fracture, leading to casting defects such as unwanted cavities or distortions.",
+        "d": "As molten metal cools, it shrinks and applies tensile forces on the core. The tensile strength test ensures that the core can resist these stresses without cracking or breaking. If the tensile strength is too low, the core may fracture, leading to casting defects such as unwanted cavities or distortions."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In a tensile strength test, what is the shape of the core sand specimen? (LO2)",
+      "answers": {
+        "a": "Cylindrical",
+        "b": "Rectangular",
+        "c": "Dog-bone shaped",
+        "d": "Spherical"
+      },
+      "explanations": {
+        "a": "A dog-bone-shaped specimen is used because it ensures that failure occurs in the central region, providing accurate measurement of the tensile strength.",
+        "b": "A dog-bone-shaped specimen is used because it ensures that failure occurs in the central region, providing accurate measurement of the tensile strength.",
+        "c": "A dog-bone-shaped specimen is used because it ensures that failure occurs in the central region, providing accurate measurement of the tensile strength.",
+        "d": "A dog-bone-shaped specimen is used because it ensures that failure occurs in the central region, providing accurate measurement of the tensile strength."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the primary apparatus used for strength testing of moulding and core sand? (LO2)",
+      "answers": {
+        "a": "Sand rammer",
+        "b": "Universal sand testing machine",
+        "c": "Split core box",
+        "d": "Dial indicator"
+      },
+      "explanations": {
+        "a": "The universal sand testing machine is a versatile instrument used to evaluate the compressive, tensile, and shear strength of moulding and core sands.",
+        "b": "The universal sand testing machine is a versatile instrument used to evaluate the compressive, tensile, and shear strength of moulding and core sands.",
+        "c": "The universal sand testing machine is a versatile instrument used to evaluate the compressive, tensile, and shear strength of moulding and core sands.",
+        "d": "The universal sand testing machine is a versatile instrument used to evaluate the compressive, tensile, and shear strength of moulding and core sands."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
